@@ -1,0 +1,28 @@
+flavors:
+  dev:
+    app:
+      name: "Riverpod Scaffold-Dev"
+    android:
+      applicationId: "com.pfuertes.service.dev"
+
+    ios:
+      bundleId: "com.pfuertes.service.dev"
+
+  pre:
+    app:
+      name: "Riverpod Scaffold-Pre"
+    android:
+      applicationId: "com.pfuertes.service.pre"
+
+    ios:
+      bundleId: "com.pfuertes.service.pre"
+
+  prod:
+    app:
+      name: "Riverpod Scaffold"
+    android:
+      applicationId: "com.pfuertes.service"
+
+    ios:
+      bundleId: "com.pfuertes.service"
+
